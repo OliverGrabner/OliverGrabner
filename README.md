@@ -18,7 +18,13 @@
 - Computer Science Student @ Texas A&M University
 - 4.00 GPA 
 - Undergraduate Researcher @ InfoLab
-- Prev. Software Engineer Intern @ Samsung 
+- Prev. Software Engineer Intern @ Samsung
+
+## Publications
+- [DRES: Benchmarking LLMs for Disfluency Removal](https://arxiv.org/abs/2509.20321) — *arXiv:2509.20321*
+- [Z-Scores: A Metric for Linguistically Assessing Disfluency Removal](https://arxiv.org/abs/2509.20319) — *arXiv:2509.20319*
+- [All papers on arXiv](https://arxiv.org/search/?searchtype=author&query=Oliver%20Grabner)
+
 
 ## Skill Set:
 
