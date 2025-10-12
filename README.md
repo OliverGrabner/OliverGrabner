@@ -1,12 +1,54 @@
-<h1 align="center">Oliver Grabner</h1>
-<h3 align="center">Computer Science Student Interested in Deep Learning</h3>
+# Hi, I'm Oliver!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olivergrabner&label=Profile%20views&color=0e75b6&style=flat" alt="olivergrabner" /> </p>
-<h3 align="left">Connect with me 😊:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/olivergrabner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olivergrabner" height="30" width="40" /></a>
-</p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivergrabner&show_icons=true&locale=en&layout=compact" alt="olivergrabner" /></p>
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /    
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/
+</pre>
 
-<h3 align="left">Languages and Tools 🔨:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+## About Me:
+- Computer Science Student @ Texas A&M University
+- 4.00 GPA 
+- Undergraduate Researcher @ InfoLab
+- Prev. Software Engineer Intern @ Samsung 
+
+## Skill Set:
+
+
+
+
+### Languages
+<div align="left">
+       <img src="https://skillicons.dev/icons?i=cpp,java,python" /> 
+</div>
+  
+### Others
+<div align="left"> <img src="https://skillicons.dev/icons?i=fastapi,django,react,vite,docker,aws,git,kubernetes,pytorch,sklearn"/> </div>
+
+
+
+
+## Connect with me:
+<div align="center">
+    <a href="https://www.linkedin.com/in/olivergrabner/" target="_blank"><img src="https://img.shields.io/badge/-Oliver%20Grabner-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:olivergrabner.cs@gmail.com"><img src="https://img.shields.io/badge/-olivergrabner.cs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/OliverGrabner" target="_blank"><img src="https://img.shields.io/badge/-LeetCode%20Profile-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://kfwlaw.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-KFW%20Law%20Project-3B5998?style=flat&logo=Netlify&logoColor=white"/></a>
+    <a href="https://olivergrabner.github.io/fakemon-card-simulator/index.html" target="_blank"><img src="https://img.shields.io/badge/-Pokémon%20Card%20Generator-0A0A0A?style=flat&logo=GithubPages&logoColor=white"/></a>
+</div>
+
+---
+
+
+  <img src="https://komarev.com/ghpvc/?username=OliverGrabner&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<h2 align="center">💻 Check Out My Repos ⬇️</h2>
