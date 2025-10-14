@@ -25,18 +25,11 @@
 - [Z-Scores: A Metric for Linguistically Assessing Disfluency Removal](https://arxiv.org/abs/2509.20319) — *arXiv:2509.20319*
 - [All papers on arXiv](https://arxiv.org/search/?searchtype=author&query=Oliver%20Grabner)
 
-
 ## Skill Set:
-
-
-
-
-### Languages
 <div align="left">
        <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,django,react,vite,docker,aws,git,kubernetes,pytorch,sklearn" /> 
 </div>
   
-
 ## Connect with me:
 <div align="center">
     <a href="https://www.linkedin.com/in/olivergrabner/" target="_blank"><img src="https://img.shields.io/badge/-Oliver%20Grabner-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
