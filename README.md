@@ -33,14 +33,9 @@
 
 ### Languages
 <div align="left">
-       <img src="https://skillicons.dev/icons?i=cpp,java,python" /> 
+       <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,django,react,vite,docker,aws,git,kubernetes,pytorch,sklearn" /> 
 </div>
   
-### Others
-<div align="left"> <img src="https://skillicons.dev/icons?i=fastapi,django,react,vite,docker,aws,git,kubernetes,pytorch,sklearn"/> </div>
-
-
-
 
 ## Connect with me:
 <div align="center">
