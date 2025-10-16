@@ -1,35 +1,4 @@
-# Hi, I'm Oliver!
 
-<pre>
-                                  ___           ___           ___       ___       ___     
-                                 /\__\         /\  \         /\__\     /\__\     /\  \    
-                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /    
-                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                                 \/__/         \/__/         \/__/     \/__/     \/__/
-</pre>
-
-## About Me:
-- Computer Science Student @ Texas A&M University
-- 4.00 GPA 
-- Undergraduate Researcher @ InfoLab
-- Prev. Software Engineer Intern @ Samsung
-
-## Publications
-- [DRES: Benchmarking LLMs for Disfluency Removal](https://arxiv.org/abs/2509.20321) — *arXiv:2509.20321*
-- [Z-Scores: A Metric for Linguistically Assessing Disfluency Removal](https://arxiv.org/abs/2509.20319) — *arXiv:2509.20319*
-- [All papers on arXiv](https://arxiv.org/search/?searchtype=author&query=Oliver%20Grabner)
-
-## Skill Set:
-<div align="left">
-       <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,django,react,vite,docker,aws,git,kubernetes,pytorch,sklearn" /> 
-</div>
-  
 ## Connect with me:
 <div align="center">
     <a href="https://www.linkedin.com/in/olivergrabner/" target="_blank"><img src="https://img.shields.io/badge/-Oliver%20Grabner-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -39,10 +8,13 @@
     <a href="https://olivergrabner.github.io/fakemon-card-simulator/index.html" target="_blank"><img src="https://img.shields.io/badge/-Pokémon%20Card%20Generator-0A0A0A?style=flat&logo=GithubPages&logoColor=white"/></a>
 </div>
 
----
+## Publications
+- [DRES: Benchmarking LLMs for Disfluency Removal](https://arxiv.org/abs/2509.20321) — *arXiv:2509.20321*
+- [Z-Scores: A Metric for Linguistically Assessing Disfluency Removal](https://arxiv.org/abs/2509.20319) — *arXiv:2509.20319*
 
-
-  <img src="https://komarev.com/ghpvc/?username=OliverGrabner&style=for-the-badge&color=orange" alt=""/>
+## Skill Set:
+<div align="left">
+       <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,django,react,vite,docker,aws,git,kubernetes,pytorch,sklearn" /> 
 </div>
-
+  
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
