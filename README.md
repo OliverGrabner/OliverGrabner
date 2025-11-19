@@ -12,9 +12,5 @@
 - [DRES: Benchmarking LLMs for Disfluency Removal](https://arxiv.org/abs/2509.20321) — *arXiv:2509.20321*
 - [Z-Scores: A Metric for Linguistically Assessing Disfluency Removal](https://arxiv.org/abs/2509.20319) — *arXiv:2509.20319*
 
-## Skill Set:
-<div align="left">
-       <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,django,react,vite,docker,aws,git,kubernetes,pytorch,sklearn" /> 
-</div>
-  
-<h2 align="center">💻 Check Out My Repos ⬇️</h2>
+
+
